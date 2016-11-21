@@ -3,6 +3,8 @@ html, body {
     padding: 0;
     margin: 0;
     position: relative;
+    font-family: 'Press Start 2P', cursive;
+    font: large;
 }
 
 body {
@@ -41,7 +43,7 @@ body {
     box-shadow: 0 0 20px rgba(0, 0, 0, .2);
     overflow: hidden;
     text-align: center;
-    padding: 10px 10px 10px 10px;
+    padding: 10px;
     background: #eee;
     font-size: 24px;
     color: #000;
