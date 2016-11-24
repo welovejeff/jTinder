@@ -221,10 +221,15 @@ body {
 }
 
 .footer {
-  margin-top: 100px;
+  margin-top: 40px;
 }
 
 .pic {
   width: 40%;
   max-width: 200px;
+}
+
+.finished {
+  font-size: 34px;
+  padding-top: 7%;
 }
