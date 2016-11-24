@@ -219,3 +219,12 @@ body {
     margin-top: 30px;
     font-weight: bold;
 }
+
+.footer {
+  margin-top: 100px;
+}
+
+.pic {
+  width: 40%;
+  max-width: 200px;
+}
